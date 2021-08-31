@@ -1,5 +1,3 @@
-# Welcome to GitHub Desktop!
+# Group 19 BAM01_ASAP <br> _aka the best group_
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+We can use this file later to add descriptions to the folders/files.
